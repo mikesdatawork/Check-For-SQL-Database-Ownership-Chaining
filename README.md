@@ -12,9 +12,9 @@
 
 ## About-Process
 
-<p>![SQL Ownership Chaining](https://mikesdatawork.files.wordpress.com/2017/11/image0011.png "Ownership Chains")
- 
-Run this SQL Logic to determine if database ownership chaining is enabled. It checks both the engine configuration, and each database. Remember; some system databases cannot have the configuration set so I have excluded database_id's of certain system databases. This is completely normal.
+
+![SQL Ownership Chaining]( https://mikesdatawork.files.wordpress.com/2017/11/image0011.png "Ownership Chains")
+<p>Run this SQL Logic to determine if database ownership chaining is enabled. It checks both the engine configuration, and each database. Remember; some system databases cannot have the configuration set so I have excluded database_id's of certain system databases. This is completely normal.
 This should save you some keystrokes.</p>
 
 
